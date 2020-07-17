@@ -18,16 +18,18 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 [✍️ Introduce yourself]
 
+Hello. I work at AWS as a Developer Advocate. I've always been interested in emerging technology and how it shapes the world around us. 
+
 [✍️ Tell us why you started this challenge]
 
-[✍️ Tell us where you want to be at the end of the challenge]
+To learn something new everyday!
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [Here's my Twitter](https://twitter.com/soganmageshwar)
+- [✍️ Here's my LinkedIn](https://www.linkedin.com/in/sohanmaheshwar)
 
 ## Stepping out the door
 
-- [ ] ☁️ 0 > ✍️ SEC01-AWS100 [My Day Article](Journey/000-My-Zero-Day.md)
+- [ ] ☁️ 0 > ✍️ 
 - [ ] ☁️ 1 >
 - [ ] ☁️ 2 >
 - [ ] ☁️ 3 >

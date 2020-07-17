@@ -20,8 +20,8 @@ Starting this challenge as that's what all the cool kids are doing and I succumb
 
 ## Stepping out the door
 
-- [ ] ☁️ 0 > ✍️ https://github.com/sohanmaheshwar/my100DaysOfCloud/blob/main/Journey/Day1.md
-- [ ] ☁️ 1 >
+- [ ] ☁️ 0 > ✍️ 
+- [ ] ☁️ 1 > https://github.com/sohanmaheshwar/my100DaysOfCloud/blob/main/Journey/Day1.md
 - [ ] ☁️ 2 >
 - [ ] ☁️ 3 >
 - [ ] ☁️ 4 >

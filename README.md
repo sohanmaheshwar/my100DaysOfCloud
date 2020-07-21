@@ -3,17 +3,13 @@
 </p>
 
 ## The Challenge
-1. Read about the challenge and register at [#100DaysOfCloud.com](https://100DaysOfCloud.com)
-2. Join the [Discord Channel](https://discord.gg/c6Db8nY)
-3. Copy the [100DaysOfCloud/100DaysOfCloud Journey Template](https://github.com/100DaysOfCloud/100DaysOfCloud/generate)
-4. Use the [Micro](Templates/000-DAY-ARTICLE-MICRO-TEMPLATE.md), [Short](Templates/001-DAY-ARTICLE-SHORT-TEMPLATE.md) or [Long](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md) Day Journey Template and document your day-to-day progress.
-5. Update your main README to link back to your Day Journey article
-4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
+Read about the challenge and register at [#100DaysOfCloud.com](https://100DaysOfCloud.com)
 
 ## Sohan's Cloud Journey
 
 Hello. I work at AWS as a Developer Advocate. I've always been interested in emerging technology and how it shapes the world around us. 
-Starting this challenge as that's what all the cool kids are doing and I succumb to peer pressure quite easily :)
+Documenting some of my cloud learnings here. 
+Doing this challenge as I hear all the cool kids are doing it and I succumb to peer pressure quite easily :)
 
 - [Here's my Twitter](https://twitter.com/soganmageshwar)
 - [Here's my LinkedIn](https://www.linkedin.com/in/sohanmaheshwar)

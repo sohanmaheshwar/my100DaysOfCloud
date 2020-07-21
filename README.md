@@ -21,9 +21,9 @@ Starting this challenge as that's what all the cool kids are doing and I succumb
 ## Stepping out the door
 
 - [ ] ☁️ 0 > ✍️ 
-- [ ] ☁️ 1 > https://github.com/sohanmaheshwar/my100DaysOfCloud/blob/main/Journey/Day1.md
-- [ ] ☁️ 2 >
-- [ ] ☁️ 3 >
+- [ ] ☁️ 1 > [AWS Amplify](https://github.com/sohanmaheshwar/my100DaysOfCloud/blob/main/Journey/Day1.md)
+- [ ] ☁️ 2 > [Cloud9 + Rekogntion](https://github.com/sohanmaheshwar/my100DaysOfCloud/blob/main/Journey/Day2.md)
+- [ ] ☁️ 3 > [S3 + Lambda](https://github.com/sohanmaheshwar/my100DaysOfCloud/blob/main/Journey/Day3.md)
 - [ ] ☁️ 4 >
 - [ ] ☁️ 5 >
 - [ ] ☁️ 6 >
